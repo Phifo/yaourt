@@ -8,7 +8,9 @@ Usage
 ------
 
 Just execute the yaourt-install script.
-  git clone git@github.com:Phifo/yaourt.git
-  cd yaourt
-  ./yaourt-install
+```bash
+git clone git@github.com:Phifo/yaourt.git
+cd yaourt
+./yaourt-install
+```
 
