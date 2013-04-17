@@ -9,4 +9,8 @@ Usage
 
 Just execute the yaourt-install script.
 
-<code>./yaourt-install</code>
+<code>
+git clone git@github.com:Phifo/yaourt.git
+cd yaourt
+./yaourt-install
+</code>
